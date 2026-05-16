@@ -1,0 +1,9 @@
+data/training.1600000.processed.noemoticon.csv
+mlruns/
+mlartifacts/
+mlflow.db
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env

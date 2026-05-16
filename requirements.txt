@@ -1,0 +1,9 @@
+mlflow
+scikit-learn
+pandas
+numpy
+nltk
+matplotlib
+jupyterlab
+streamlit
+flask
